@@ -1,3 +1,5 @@
+![wpscan](https://github.com/user-attachments/assets/2e71923b-d9d9-4883-a599-9601d508ad38)
+
 WPScan is a WordPress security scanning tool used to identify vulnerabilities, plugins, themes, and users in WordPress websites.
 
 ⚠️ Warning: WPScan should only be used on authorized websites. Unauthorized scanning may be illegal.   

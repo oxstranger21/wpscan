@@ -106,4 +106,7 @@ Automattic (Sponsor): https://automattic.com
 👨‍💻 Author
 
 Created for learning & educational purposes
-Tool demonstrated on Parrot OS
+Tool demonstrated on Parrot OS         
+📧 Linkedin : https://www.linkedin.com/in/gopi-kumar-612a2b294/ 
+
+🔗 GitHub: https://github.com/oxstranger21
